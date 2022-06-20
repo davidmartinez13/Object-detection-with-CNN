@@ -1,3 +1,4 @@
 Deep neural network model for detection of packets on conveyor belt.
 
-![alt text](https://github.com/davidmartinez13/Deep-RL-Agent-for-Pick-and-Place/blob/main/images/real_robot.png)
+![alt text](https://github.com/davidmartinez13/Object-detection-with-CNN/blob/main/images/robot_system.jpeg)
+![alt text](https://github.com/davidmartinez13/Object-detection-with-CNN/blob/main/images/detection_sample.png)
